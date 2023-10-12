@@ -9,7 +9,7 @@
 2. [Eintritt](#eintritt)
 3. [Öffnungszeiten](#öffnungszeiten)
 4. [Verpflegung](#verpflegung)
-5. [Schnuppertauchen](#Schnuppertauchen)
+5. [Schnuppertauchen](#schnuppertauchen)
 
 
 ## Jugenschutz
