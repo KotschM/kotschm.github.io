@@ -37,5 +37,7 @@ Für die Helfer wird es Essensgutscheine für das Pano-Restaurant geben.
 
 Getränke werden vom Pano gestellt (~ 3 Flaschen pro Helfer)
 
+Am Sonntag haben wir im Pano auf 11:45 Uhr zwei Tische reserviert (ca. 16 Plätze) :) 
+
 ## Schnuppertauchen 
 Der Tauchsportclub Delphin bietet am Samstagnachmittag ein Schnuppertauchen von 14-16 Uhr an.
