@@ -5,14 +5,14 @@
 **Zeit:** 11 Uhr bis 11 Uhr
 
 # Wichtige Themen und Fragen
-1. [Jugenschutz](#jugenschutz)
-2. [Eintritt](#eintritt)
-3. [Öffnungszeiten](#öffnungszeiten)
-4. [Verpflegung](#verpflegung)
-5. [Schnuppertauchen](#schnuppertauchen)
+1. [Einteilung](#einteilung)
+2. [Jugenschutz](#jugenschutz)
+3. [Eintritt](#eintritt)
+4. [Öffnungszeiten](#öffnungszeiten)
+5. [Verpflegung](#verpflegung)
+6. [Schnuppertauchen](#schnuppertauchen)
 
-## Planung
-
+## Einteilung
 ![sdfdsf](images/2023-24h-Schwimmen.svg "Title")
 
 
