@@ -11,6 +11,10 @@
 4. [Verpflegung](#verpflegung)
 5. [Schnuppertauchen](#schnuppertauchen)
 
+## Planung
+
+![sdfdsf](images/2023-24h-Schwimmen.svg "Title")
+
 
 ## Jugenschutz
 Das Pano hat mit dem Jugendamt eine Vereinbarung getroffen. Für Jugendliche **unter 18 Jahre** ist
