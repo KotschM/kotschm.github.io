@@ -13,6 +13,16 @@
 6. [Schnuppertauchen](#schnuppertauchen)
 
 ## Einteilung
+Der Aufbau und die Registrierung der Schwimmer/innen beginnt am Samstag ab 10 Uhr. Dafür habe ich folgende 
+Personen eingeteilt:
+- Christian und Henriette
+- Dietmar "Didi"
+- Jochen
+- Luca
+- Nico S.
+- Salime und Halit
+- Sven, Moris und Uschi
+
 ![sdfdsf](images/2023-24h-Schwimmen.svg "Title")
 
 
